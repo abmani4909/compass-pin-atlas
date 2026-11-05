@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Compass Pin Atlas</string>
+
+    <string name="splash_title">COMPASS PIN ATLAS</string>
+    <string name="splash_subtitle">DROP A PIN. LEARN THE WORLD.</string>
+    <string name="splash_status">CHARTING</string>
+
+    <string name="brand_title">COMPASS PIN</string>
+    <string name="brand_sub">ATLAS</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="confirm_pin">CONFIRM PIN</string>
+    <string name="next_clue">NEXT CLUE</string>
+    <string name="see_results">SEE RESULTS</string>
+    <string name="passport">PASSPORT</string>
+    <string name="weak_spots">WEAK SPOTS</string>
+    <string name="weak_spots_sub">YOUR LONGEST MISSES</string>
+    <string name="weak_spots_empty">NO TRIPS YET. PLAY A TRIP TO MAP YOUR WEAK SPOTS.</string>
+    <string name="weak_spot_attempts">%1$d PINS DROPPED</string>
+    <string name="start_a_trip">START A TRIP</string>
+    <string name="place_glossary">GLOSSARY</string>
+    <string name="glossary_sub">%1$d PLACES ON FILE</string>
+    <string name="glossary_meta">%1$s · %2$s</string>
+    <string name="glossary_empty">NO PLACE MATCHES THAT NAME</string>
+    <string name="search_places">SEARCH PLACES</string>
+    <string name="how_to_play">HOW TO PLAY</string>
+    <string name="settings">SETTINGS</string>
+    <string name="back">BACK</string>
+    <string name="pause">PAUSE TRIP</string>
+    <string name="recentre">RECENTRE MAP</string>
+    <string name="reset">RESET</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="world_atlas">WORLD ATLAS</string>
+    <string name="world_atlas_sub">ALL SEVEN ATLASES · 5 CLUES</string>
+    <string name="menu_hint">PAN, PINCH, THEN DROP YOUR PIN</string>
+    <string name="not_visited">NOT VISITED</string>
+    <string name="locked">LOCKED</string>
+
+    <string name="stat_stamps">STAMPS</string>
+    <string name="stat_best_grade">BEST GRADE</string>
+    <string name="stat_trips">TRIPS</string>
+    <string name="stat_best_clue">BEST CLUE</string>
+    <string name="stat_average_off">AVERAGE OFF</string>
+    <string name="stamp_value">%1$d OF %2$d</string>
+    <string name="best_score">BEST %1$s</string>
+
+    <string name="region_world">WORLD</string>
+    <string name="region_europe">EUROPE</string>
+    <string name="region_africa">AFRICA</string>
+    <string name="region_asia">ASIA</string>
+    <string name="region_americas">AMERICAS</string>
+    <string name="region_oceania">OCEANIA</string>
+    <string name="region_polar">POLAR</string>
+
+    <string name="category_river">RIVER</string>
+    <string name="category_mountain">MOUNTAIN RANGE</string>
+    <string name="category_capital">CAPITAL</string>
+    <string name="category_wonder">NATURAL WONDER</string>
+
+    <string name="clue_counter">CLUE %1$d / %2$d</string>
+    <string name="clue_hint">Somewhere in the %1$s atlas.</string>
+    <string name="map_cd">BLANK WORLD MAP, TAP TO DROP YOUR PIN</string>
+    <string name="coordinates">%1$.1f %2$s · %3$.1f %4$s</string>
+    <string name="dir_north">N</string>
+    <string name="dir_south">S</string>
+    <string name="dir_east">E</string>
+    <string name="dir_west">W</string>
+    <string name="distance_km">%1$s KM</string>
+    <string name="distance_mi">%1$s MI</string>
+    <string name="points_earned">+%1$s PTS</string>
+    <string name="bullseye">BULLSEYE</string>
+    <string name="cta_ready">PIN PLACED</string>
+    <string name="cta_waiting">NO PIN YET</string>
+
+    <string name="abandon_title">END THIS TRIP</string>
+    <string name="abandon_message">The clues you have already scored are kept. The rest of the trip is lost.</string>
+    <string name="abandon_confirm">END TRIP</string>
+
+    <string name="trip_complete">TRIP COMPLETE</string>
+    <string name="total_score">%1$s / %2$s PTS</string>
+    <string name="gameover_hint">CLOSER PINS EARN MORE POINTS</string>
+
+    <string name="howto_1_title">PAN AND PINCH</string>
+    <string name="howto_1_body">Drag the sheet to travel and pinch to zoom in on the coastline you need.</string>
+    <string name="howto_2_title">DROP YOUR PIN</string>
+    <string name="howto_2_body">Tap the map to place the pin, then confirm it. The pin rides above your finger.</string>
+    <string name="howto_3_title">SCORE BY DISTANCE</string>
+    <string name="howto_3_body">The arc shows how far you were. A pin within 25 km takes the full thousand.</string>
+    <string name="howto_hint">FIVE CLUES MAKE ONE TRIP</string>
+
+    <string name="settings_units">UNITS</string>
+    <string name="unit_km">KM</string>
+    <string name="unit_miles">MILES</string>
+    <string name="settings_borders">BORDERS</string>
+    <string name="borders_easy">EASY</string>
+    <string name="borders_hard">HARD</string>
+    <string name="settings_sound">SOUND</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_title">RESET PROGRESS</string>
+    <string name="reset_message">Every grade, stamp and trip count is cleared. This cannot be undone.</string>
+</resources>
